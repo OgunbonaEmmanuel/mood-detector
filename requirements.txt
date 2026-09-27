@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy
+pyttsx3
+langchain-openai
+langchain-core
+python-dotenv
